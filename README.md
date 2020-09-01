@@ -1,1 +1,1 @@
-![dino](dino.gif)
+![dino](https://github.com/bunomonteiro/bunomonteiro/blob/master/dino.gif)
